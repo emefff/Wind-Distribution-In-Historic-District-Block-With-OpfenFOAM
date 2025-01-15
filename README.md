@@ -1,4 +1,4 @@
-# Wind-Distribution-In-Historic-District-Block-With-OpfenFOAM
+# Wind-Distribution-In-Historic-District-With-OpfenFOAM
 
 This is yet another example of what FOSS software is capable of in 2025. The whole model below, consists of 33 buildings plus roofs (including one church), has been prepared in FreeCAD. 
 Albeit the models are quite basic, they should be enough for such a large scale simulation. The town block has been prepared after basic Google Maps data of the inner town area of Graz, Austria. The ground plots of all buildings is accurate.
