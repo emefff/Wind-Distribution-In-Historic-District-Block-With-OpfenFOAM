@@ -45,9 +45,9 @@ CAD model (FreeCAD)
 
 Simulation space and other CAD cutting and concatenating (Salome)
 
-Meshing (SnappyHExMesh in CfdOF in FreeCAD)
+Meshing (SnappyHexMesh parallel in CfdOF in FreeCAD)
 
-Simulation (OpenFoam in CfdOF in FreeCAD)
+Simulation (OpenFoam parallel in CfdOF in FreeCAD)
 
 Post-Processing (ParaView in CfdOF in FreeCAD).
 
