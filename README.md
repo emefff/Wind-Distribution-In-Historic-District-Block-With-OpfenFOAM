@@ -33,7 +33,7 @@ Angled view at the church and the corner at Murgasse (same line source in height
 Increased wind speed at corner Murgasse, with indicated line source in height of 1.5m:
 ![CFD2_1_5_m_line_source_1_grau](https://github.com/user-attachments/assets/a2980f54-e62d-45d1-977f-606e00577fda)
 
-Increased wind speeds at 1.5m along Fransziskanerplatz, directly leading into Franziskanergasse and Neue-Welt-Gasse, source line is indicated:
+Increased wind speeds at 1.5m along Fransziskanerplatz, directly leading into Franziskanergasse and Neue-Welt-Gasse (wind speeds also increased there), source line is indicated:
 ![CFD2_1_5_m_line_source_2_grau](https://github.com/user-attachments/assets/5d4cb7ed-97b7-4565-96be-41d66c86ceaf)
 
 In summary, using CfdOF is a real pleasure compared to other open-source GUIs for OpenFOAM. The GUI is 100% FreeCAD oriented, so if you are familiar with it you will have no problem adapting. The program never crashes or fails in unforeseen or stupid ways, it seems to be very stable even with large meshes. Compared to other FOSS GUI, this is a real pleasure. 
