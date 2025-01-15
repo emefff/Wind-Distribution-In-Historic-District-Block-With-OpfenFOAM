@@ -43,7 +43,7 @@ The basic workflow used here was:
 
 CAD model (FreeCAD)
 
-Simulation space and other CAD (Salome)
+Simulation space and other CAD cutting and concatenating (Salome)
 
 Meshing (SnappyHExMesh in CfdOF in FreeCAD)
 
