@@ -17,7 +17,7 @@ The Cfd-solver part is also very convenient, although only the most important ar
 
 
 For post-processing, the well-known ParaView is used. Today we can safely call it 'the post-processing standard' in the open-source world. As it is also used in Salome-Meca/Code-Aster we are very familiar with it, so now news here. ParaView can already be started during the running simulation, as long as at least one timestep is written. You can leave it open and just press 'Reload files (F5)' and follow the results of your running simulation. In Paraview, we may also load a pretty model of our town block for visualisation, just be sure to store it in .vtk before importing it (Salome can do that). 
-Let us look at some results. When looking at streamlines, a line source is very useful in this setup. We place it at the left border, near the inlet in different heights. It is very obvious the first corners of Murgasse catch a lot of wind, and windspeed even increases there. In fact, these corners are known wo be quite windy as is Franziskanerplatz. On the main spare (Hauptplatz) we find the streams that were near the ground on the inlet to pass over building and fall onto the square. Near the main square, we find two narrow alleys, that are known to be windy in reality, Franziskanergasse and Neue-Welt-Gasse. The results of this simulation confirm reality, as the streamlines coming from the river can pass at nearly unhindered at the same height. There is not a lot of disturbance for the air along these paths. 
+Let us look at some results. When looking at streamlines, a line source is very useful in this setup. We place it at the left border, near the inlet in different heights. It is very obvious the first corners of Murgasse catch a lot of wind, and windspeed even increases there. In fact, these corners are known wo be quite windy, as is Franziskanerplatz. On the main spare (Hauptplatz) we find the streams that were near the ground on the inlet to pass over buildings and fall onto the square with reduced velocity. Near the main square, we find two narrow alleys, that are known to be windy in reality, Franziskanergasse and Neue-Welt-Gasse. The results of this first (!) simulation confirm reality, as the streamlines coming from the river can pass at nearly unhindered at the same height. There is not a lot of disturbance for the air along these paths. 
 
 
 
@@ -39,10 +39,7 @@ Simulation (OpenFoam in CfdOF in FreeCAD)
 Post-Processing (ParaView in CfdOF in FreeCAD).
 
 
-
-
-
-Although this sounds like an ad, I am in no way affiliated with the creators of Cfd, Personally, I have tried OpenFOAM many times and put it away after a few days exactly as many times. CfdOF has changed that, I'd even say it is mature enough to be used professionally. The CAD model used in the simulation is shared in the folder, just be informed it is not super-accurate and in no way usable for an architectural model of the city. 
+Although this text sounds like an ad, we are in no way affiliated with the creators of Cfd, Personally, I have tried OpenFOAM many times and put it away after a few days, exactly as many times. CfdOF has changed that, I'd even say it is mature enough to be used professionally. The CAD model used in the simulation is shared in the folder, just be informed it is not super-accurate and in no way usable for an architectural model of the city. 
 
 
 emefff@gmx.at
