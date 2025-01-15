@@ -43,7 +43,7 @@ Simulation (OpenFoam in CfdOF in FreeCAD)
 Post-Processing (ParaView in CfdOF in FreeCAD).
 
 
-Although this text sounds like an ad, we are in no way affiliated with the creators of Cfd, Personally, I have tried OpenFOAM many times and put it away after a few days, exactly as many times. CfdOF has changed that, I'd even say it is mature enough to be used professionally. The CAD model used in the simulation is shared in the folder, just be informed it is not super-accurate and in no way usable for an architectural model of the town. 
+Although this text sounds like an ad, we are in no way affiliated with the creators of Cfd. Personally, I have tried OpenFOAM many times and put it away after a few days, exactly as many times. CfdOF has changed that, I'd even say it is mature enough to be used professionally. The CAD model used in the simulation is shared in the folder, just be informed it is not super-accurate and in no way usable for an architectural model of the town. 
 
 
 emefff@gmx.at
