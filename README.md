@@ -20,10 +20,12 @@ For post-processing, the well-known ParaView is used. Today we can safely call i
 Let us look at some results. When looking at streamlines, a line source is very useful in this setup. We place it at the left border, near the inlet in different heights (1.0m, 1.5m, 2.0m). It is very obvious the first corners of Murgasse catch a lot of wind, and windspeed even increases there. In fact, these corners are known wo be quite windy, as is Franziskanerplatz. On the main spare (Hauptplatz) we find the streams that were near the ground on the inlet to pass over buildings and fall onto the square with reduced velocity. Near the main square, we find two narrow alleys, that are known to be windy in reality, Franziskanergasse and Neue-Welt-Gasse. The results of this first (!) simulation confirm reality, as the streamlines coming from the river can pass at nearly unhindered at the same height. There is not a lot of disturbance for the air along these paths. 
 
 Top view of whole simulation space with line source on the left (height 1.0m):
-![CFD2_1m_line_source_1](https://github.com/user-attachments/assets/1517347a-3ff7-43c3-a3cc-ae8943986348)
+![CFD2_1m_line_source_1_grau](https://github.com/user-attachments/assets/bc4db06a-1af1-4066-8ee6-f3b407eeffb6)
+
 
 Angled view at the church and the corner at Murgasse (same line source in height of 1.0m):
-![CFD2_1m_line_source_2](https://github.com/user-attachments/assets/feeb0b41-d7b8-49b5-bc24-83cb4c0e9530)
+![CFD2_1m_line_source_2_grau](https://github.com/user-attachments/assets/d5c8ff85-cbb1-4e51-844b-cce0c2856a2f)
+
 
 
 
