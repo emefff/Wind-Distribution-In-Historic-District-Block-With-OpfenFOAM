@@ -16,13 +16,14 @@ The Cfd-solver part is also very convenient, although only the most important ar
 ![Bildschirmfoto vom 2025-01-15 12-31-23](https://github.com/user-attachments/assets/96df7fac-9459-47cb-bbd9-c3f11b001aa2)
 
 
-For post-processing, the well-known ParaView is used. Today we can safely call it 'the post-processing standard' in the open-source world. As it is also used in Salome-Meca/Code-Aster we are very familiar with it, so now news here. ParaView can already be started during the running simulation, as long as at least one timestep is written. You can leave it open and just press 'Reload data' and follow the results of your running sim. In Paraview, we may also load a pretty model of our town block for visualisation, just be sure to store it in .vtk before importing it (Salome can do that). 
-
-
+For post-processing, the well-known ParaView is used. Today we can safely call it 'the post-processing standard' in the open-source world. As it is also used in Salome-Meca/Code-Aster we are very familiar with it, so now news here. ParaView can already be started during the running simulation, as long as at least one timestep is written. You can leave it open and just press 'Reload files (F5)' and follow the results of your running simulation. In Paraview, we may also load a pretty model of our town block for visualisation, just be sure to store it in .vtk before importing it (Salome can do that). 
 Let us look at some results. When looking at streamlines, a line source is very useful in this setup. We place it at the left border, near the inlet in different heights. It is very obvious the first corners of Murgasse catch a lot of wind, and windspeed even increases there. In fact, these corners are known wo be quite windy as is Franziskanerplatz. On the main spare (Hauptplatz) we find the streams that were near the ground on the inlet to pass over building and fall onto the square. Near the main square, we find two narrow alleys, that are known to be windy in reality, Franziskanergasse and Neue-Welt-Gasse. The results of this simulation confirm reality, as the streamlines coming from the river can pass at nearly unhindered at the same height. There is not a lot of disturbance for the air along these paths. 
 
 
-In summary, using CfdOF is a real pleasure compared to other open-source GUIs for OpenFOAM. The GUI is very FreeCAD oriented, so if you are familiar with that you will have no problem adapting. The program never crashes or fails in unforeseen or stupid ways, it seems to be very stable even with large meshes. Compared to other FOSS GUI, this is a real pleasure. 
+
+
+
+In summary, using CfdOF is a real pleasure compared to other open-source GUIs for OpenFOAM. The GUI is 100% FreeCAD oriented, so if you are familiar with it you will have no problem adapting. The program never crashes or fails in unforeseen or stupid ways, it seems to be very stable even with large meshes. Compared to other FOSS GUI, this is a real pleasure. 
 
 
 The basic workflow used here was:
