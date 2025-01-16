@@ -5,7 +5,7 @@ Albeit the models are quite basic, they should be enough for such a large scale 
 
 As this repository is for demonstration purposes only, the roofs are not realistic. The actual roofs of this area may be called squiggled at best. They are the result of more than one hundred years of repairing and maintenance and two World Wars. 
 The model space is roughly 400 * 200 * 43 m (L x W x H). These data is exported to Salome for creating the simulation space and a combined .step of the town block. FreeCAD can do that, but it takes a long time with over a hundred bodies.
-The simulation space data is reimported to FreeCAD for use with the CfDOF Workbench. If you have ever struggeed with OpenFOAM and the basic text editing of files (I certainly have in he past), this is perhaps the best solution if you do not have 50000€ for a CFD License of the usual suspects. 
+The simulation space data is reimported to FreeCAD for use with the CfdOF Workbench. If you have ever struggeed with OpenFOAM and the basic text editing of files (I certainly have in he past), this is perhaps the best solution if you do not have 50000€ for a CFD License of the usual suspects. 
 
 Piece of map used for the model (courtesy Google Maps):
 ![Bildschirmfoto vom 2025-01-15 13-07-30](https://github.com/user-attachments/assets/90ede3e4-da1e-4eab-bf79-22694629eb63)
