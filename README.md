@@ -26,7 +26,7 @@ Top view of whole simulation space with line source on the left (height 1.5m):
 
 ![top_view_1](https://github.com/user-attachments/assets/c15c0625-88d6-4041-8b31-11f775323772)
 
-Angled view at the church and the corner at Murgasse (same line source in height of 1.5m):
+Angled view at the church and the corner at Murgasse (same line source in height of 1.5m). In the background, the windfall on Hauptplatz is visible:
 
 ![side_view_church_1](https://github.com/user-attachments/assets/04419415-b278-4f41-9a0f-03882a88af0f)
 
