@@ -30,7 +30,7 @@ Angled view at the church and the corner at Murgasse (same line source in height
 
 ![side_view_church_1](https://github.com/user-attachments/assets/04419415-b278-4f41-9a0f-03882a88af0f)
 
-Increased wind speeds at corner Murgasse, with indicated line source in height of 1.5m. Of course, 19th century city planners did not consider aerodynamics of the town. For the aerodynamicist, it's clear why we find increased wind speeds at the entrance of Murgasse and further back. In both cases the entrance cross section areas are decreased and speeds increase. Further back there is a second constriction at the corner of Paradeisgasse, some air even escapes through Nürnbergergasse, which is it's own little wind tunnel:
+Increased wind speeds are present at the corner of Murgasse, with indicated line source in height of 1.5m. Of course, 19th century city planners did not consider aerodynamics of the town. For the aerodynamicist, it's clear why we find increased wind speeds at the entrance of Murgasse and further back. In both cases the entrance cross section areas are decreased and speeds increase. Further back there is a second constriction at the corner of Paradeisgasse, some air even escapes through Nürnbergergasse, which is it's own little wind tunnel:
 
 ![murgassse_nürnberger_1](https://github.com/user-attachments/assets/c727514f-91ed-44e0-8d39-8a1537427b49)
 
